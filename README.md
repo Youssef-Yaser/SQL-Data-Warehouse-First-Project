@@ -1,37 +1,38 @@
-🏗️ SQL Data Warehouse – First Project
+# 🏗️ SQL Data Warehouse – First Project
 
-Building a modern data warehouse with SQL Server
-This project demonstrates how to design and implement a complete SQL-based Data Warehouse, including ETL processes, data modeling, and analytics. It consolidates data from multiple sources into a centralized repository to enable reporting, insights, and business intelligence.
+**Building a modern data warehouse with SQL Server**  
+This project demonstrates how to design and implement a **complete SQL-based Data Warehouse**, including **ETL processes, data modeling, and analytics**.  
+It consolidates data from multiple sources into a centralized repository to enable **reporting, insights, and business intelligence**.
 
+---
 
-📌 Key Features ->
-⚡ ETL Pipelines – Extract, transform, and load data from different sources into staging and warehouse layers
+## 📌 Key Features
+- ⚡ **ETL Pipelines** – Extract, transform, and load data from different sources into staging and warehouse layers  
+- 🧩 **Data Modeling** – Star schema design with fact and dimension tables (Sales, Customers, Products, Dates, Regions)  
+- 📊 **Data Analytics** – SQL queries and sample dashboards to analyze KPIs and trends  
+- 📁 **Modular Structure** – Separate layers for staging, warehouse, and presentation  
 
-🧩 Data Modeling – Star schema design with fact and dimension tables (Sales, Customers, Products, Dates, Regions)
+---
 
-📊 Data Analytics – SQL queries and sample dashboards to analyze KPIs and trends
+## 🛠️ Tech Stack
+- **SQL Server** (Database & ETL using T-SQL / SSIS)  
+- **Power BI** or **SQL Queries** for reporting  
+- **GitHub** for version control and project management  
 
-📁 Modular Structure – Separate layers for staging, warehouse, and presentation
+---
 
+## 🎯 Outcomes
+- A functioning SQL Data Warehouse that supports historical trend analysis and performance reporting  
+- Hands-on experience in data engineering concepts like **ETL, data modeling, and performance optimization**
 
-🛠️ Tech Stack ->
-SQL Server (Database & ETL using T-SQL / SSIS)
+---
 
-Power BI or SQL Queries for reporting
+## 👨‍💻 About Me
+Hi, I’m **Youssef Yaser**, a Computer Science student at **Faculty of Computers and Information – Fayoum University (Egypt)**.  
+I’m passionate about **data engineering, databases, and cloud technologies**, and I’m building real-world projects to strengthen my skills and launch my career in data engineering.
 
-GitHub for version control and project management
+- 📧 Email: [youssefyaser561974@gmail.com]ز
+- 🌍 Location: 6th of October City, Egypt  
+- 💼 LinkedIn: [[Add your LinkedIn profile link here]](https://www.linkedin.com/in/youssef-yasser-26b810316/)
 
-
-🎯 Outcomes ->
-A functioning SQL Data Warehouse that supports historical trend analysis and performance reporting
-
-Hands-on experience in data engineering concepts like ETL, data modeling, and performance optimization
-
-
-👨‍💻 About Me ->
-Hi, I’m Youssef Yaser, a Computer Science student at Faculty of Computers and Information – Fayoum University (Egypt).
-I’m passionate about data engineering, databases, and cloud technologies, and I’m building real-world projects to strengthen my skills and launch my career in data engineering.
-
-📧 Email: youssefyaser561974@gmail.com
-🌍 Location: 6th of October City, Egypt
-📌 LinkedIn: https://www.linkedin.com/in/youssef-yasser-26b810316/
+---

@@ -31,8 +31,8 @@ It consolidates data from multiple sources into a centralized repository to enab
 Hi, I’m **Youssef Yaser**, a Computer Science student at **Faculty of Computers and Information – Fayoum University (Egypt)**.  
 I’m passionate about **data engineering, databases, and cloud technologies**, and I’m building real-world projects to strengthen my skills and launch my career in data engineering.
 
-- 📧 Email: [youssefyaser561974@gmail.com]ز
+- 📧 Email: [youssefyaser561974@gmail.com]
 - 🌍 Location: 6th of October City, Egypt  
-- 💼 LinkedIn: [[Add your LinkedIn profile link here]](https://www.linkedin.com/in/youssef-yasser-26b810316/)
+- 💼 [LinkedIn (https://www.linkedin.com/in/youssef-yasser-26b810316/)]
 
 ---

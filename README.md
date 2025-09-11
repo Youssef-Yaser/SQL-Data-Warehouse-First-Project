@@ -34,5 +34,4 @@ I’m passionate about data engineering, databases, and cloud technologies, and 
 
 📧 Email: youssefyaser561974@gmail.com
 🌍 Location: 6th of October City, Egypt
-📌 LinkedIn: https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BC2A22rHjSRadA%2F9KEJ4hlA%3D%3
-
+📌 LinkedIn: https://www.linkedin.com/in/youssef-yasser-26b810316/

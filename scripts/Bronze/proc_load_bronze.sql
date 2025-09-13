@@ -23,7 +23,6 @@ GO
 CREATE OR ALTER PROCEDURE Bronze.Load_bronze_Layer
 AS
 BEGIN
-    SET NOCOUNT ON;
 
     DECLARE @start_time DATETIME, @end_time DATETIME;
     DECLARE @table_start DATETIME, @table_end DATETIME;

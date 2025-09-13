@@ -20,7 +20,7 @@
 USE DataWarehouse;
 GO
 
-CREATE OR ALTER PROCEDURE Bronze.load_bronze
+CREATE OR ALTER PROCEDURE Bronze.Load_bronze_Layer
 AS
 BEGIN
     SET NOCOUNT ON;

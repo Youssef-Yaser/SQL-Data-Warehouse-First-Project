@@ -35,10 +35,11 @@ This project involves:
 ---
 ## 🌟 About Me
 
-👨‍💻 About Me
-Hi, I’m Youssef Yaser, a Computer Science student at Faculty of Computers and Information – Fayoum University (Egypt).
+👨‍💻 Youssef Yaser
+Hi! I’m Youssef Yaser, a Computer Science student at the Faculty of Computers and Information – Fayoum University (Egypt).
 I’m passionate about data engineering, databases, and cloud technologies, and I’m building real-world projects to strengthen my skills and launch my career in data engineering.
 
-📧 Email: [youssefyaser561974@gmail.com]
-🌍 Location: 6th of October City, Egypt
-💼 LinkedIn
+📍 Location: 6th of October City, Egypt
+📧 Email: youssefyaser561974@gmail.com
+💼 LinkedIn: linkedin.com/in/youssef-yaser
+💻 GitHub: github.com/youssefyaser

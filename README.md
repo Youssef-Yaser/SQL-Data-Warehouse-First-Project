@@ -40,5 +40,5 @@ Hi! I’m Youssef Yaser, a Computer Science student at the Faculty of Computers 
 I’m passionate about data engineering, databases, and cloud technologies, and I’m building real-world projects to strengthen my skills and launch my career in data engineering.
 
 📍 Location: 6th of October City, Egypt
-📧 Email: youssefyaser561974@gmail.com
-💼 LinkedIn[https://www.linkedin.com/in/youssef-yasser-26b810316/]
+📧 [Email] (youssefyaser561974@gmail.com)
+💼 [LinkedIn] (https://www.linkedin.com/in/youssef-yasser-26b810316/)

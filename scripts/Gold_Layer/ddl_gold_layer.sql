@@ -27,6 +27,7 @@ GO
 -- =============================================================================
 -- Create Dimension: Gold.dim_customers
 -- =============================================================================
+    
 IF OBJECT_ID('Gold.dim_customers', 'V') IS NOT NULL
     DROP VIEW Gold.dim_customers;
 GO
@@ -51,13 +52,10 @@ FROM Silver.crm_cust_info CI
 LEFT JOIN Silver.erp_cust_az12  CA ON CI.cst_key = CA.CID
 LEFT JOIN Silver.erp_loc_a101   LA ON CI.cst_key = LA.CID;
 
-
-USE DataWarehouse;
-GO
-
 -- =============================================================================
 -- Create Dimension: Gold.dim_products
 -- =============================================================================
+
 IF OBJECT_ID('Gold.dim_products', 'V') IS NOT NULL
     DROP VIEW Gold.dim_products;
 GO
@@ -80,13 +78,10 @@ LEFT JOIN Silver.erp_px_cat_g1v2 PC
     ON PN.cat_id = PC.ID
 WHERE PN.prd_end_dt IS NULL;
 
-
-USE DataWarehouse;
-GO
-
 -- =============================================================================
 -- Create Fact: Gold.fact_sales
 -- =============================================================================
+
 IF OBJECT_ID('Gold.fact_sales', 'V') IS NOT NULL
     DROP VIEW Gold.fact_sales;
 GO

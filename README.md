@@ -38,6 +38,9 @@ This project involves:
 👨‍💻 I’m Youssef Yaser , a Computer Science student at the Faculty of Computers and Information – Fayoum University (Egypt).
 I’m passionate about data engineering, databases, and cloud technologies, and I’m building real-world projects to strengthen my skills and launch my career in data engineering.
 
+A very special thanks goes to **Baraa Khatib Salkini (Data With Baraa)**, whose guidance and support were extremely valuable in developing this project. His insights and tutorials played a **major role** in shaping the scripts and analytical approach.
+
+
 📍 Location: 6th of October City, Egypt
 
 📧 [Email](youssefyaser561974@gmail.com)
